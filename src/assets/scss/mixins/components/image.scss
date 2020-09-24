@@ -1,0 +1,11 @@
+@mixin
+image($url, $width, $height){
+  display: inline-block;
+  width: $width;
+  height: $height;
+  position: relative;
+  background-image: url($url);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+

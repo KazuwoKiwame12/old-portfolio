@@ -1,0 +1,37 @@
+{
+  "goodLanguages": [
+    {
+      "img": "Java.png",
+      "description": "JavaServlet,JSP,JFXなどを特に使用。Javaは学校でも習っている。"
+    },
+    {
+      "img": "C.png",
+      "description": "GameBoyAdvanceで動くものを作成した。最近はTETRISを作成"
+    },
+    {
+      "img": "Swift.png",
+      "description": "タスクの達成率を視覚化できるものを作成中。しかし、StoryBoardで四苦八苦している。"
+    },
+    {
+      "img": "Vue.png",
+      "description": "ポートフォリオサイトはこれで作成。しかし、画像取得に大変つまづいた"
+    },
+    {
+      "img": "HTML.png",
+      "description": "タグを正しく使うように最近注意している。metaについて学習中である。"
+    },
+    {
+      "img": "CSS.png",
+      "description": "SCSSなどを多様している。CSSアニメーションについて勉強してみたい。"
+    },
+    {
+      "img": "PHP.png",
+      "description": "LaravelでいくつかのWebアプリを作成。APIを作成する際には、いつも使っている。"
+    },
+    {
+      "img": "Nuxt.jpg",
+      "description": "バイトで使用している。よってVueよりもNuxtを使いたいと最近感じている。"
+    }
+  ]
+}
+

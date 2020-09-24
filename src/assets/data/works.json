@@ -1,0 +1,105 @@
+{
+  "works": [
+    {
+      "lang": "Java",
+      "works": [
+        {
+          "name": "オセロ",
+          "dir": "Osero",
+          "imgs": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png"
+          ],
+          "functions": "スタート機能　勝敗判断機能 スキップ機能 リセット機能 獲得ポイント表示機能　その他諸々",
+          "effortPoints": "オセロの石を反転させる判定に苦労した, また、初めてのJavaFXだったために描画などの処理に手間取った"
+        },
+        {
+          "name": "パスドラ",
+          "dir": "PuzzleDragon",
+          "imgs": [
+            "1.png",
+            "2.png",
+            "3.png"
+          ],
+          "functions": "攻撃機能　石を動かす機能　ドロップさせる機能 石が並んだ際の削除機能　石を落とす機能",
+          "effortPoints": "初めての協同開発（2人）を成功させるために、設計書や仕様決めを徹底した"
+        }
+      ]
+    },
+    {
+      "lang": "C言語",
+      "works": [
+        {
+          "name": "テトリス_for_GameBoyAdvance",
+          "dir": "Tetris",
+          "imgs": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png"
+          ],
+          "functions": "ゲーム説明画面　ブロックが落ちる機能 次のブロックを表示する機能　そろったブロックを削除する機能 ブロックを回転させる機能　ポイント獲得機能　タイマー",
+          "effortPoints": "各ブロックを回転させることを実装するのに時間がかかってしまった"
+        }
+      ]
+    },
+    {
+      "lang": "Vue",
+      "works": [
+        {
+          "name": "ポートフォリオサイト",
+          "dir": "PortFolio",
+          "imgs": [
+            "1.png",
+            "2.png",
+            "3.png"
+          ],
+          "functions": "画面遷移　メール機能など",
+          "effortPoints": "スマホサイズの表示の対応に苦労したり、画像の動的パスの取得が難敵だった"
+        }
+      ]
+    },
+    {
+      "lang": "Laravel",
+      "works": [
+        {
+          "name": "日報投稿サイト",
+          "dir": "Daily_report",
+          "imgs": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png",
+            "9.png"
+          ],
+          "functions": "登録機能　認証機能　良いね機能 マークダウン対応 日報投稿機能　日報の詳細確認機能 日報削除機能　個人の日報確認　検索機能 良いねした日報確認機能 slackへの通知機能",
+          "effortPoints": "良いね機能の実装 herokuで動作させることやlackとの連携に手間取った"
+        },
+        {
+          "name": "シフト管理API_for_Slack",
+          "dir": "Shift",
+          "imgs": [
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png"
+          ],
+          "functions": "RestAPI シフト登録機能　シフト確認機能 バイトの権限ごとのシフト時間制限機能　 管理者用機能　slackからuser情報登録するコマンド　slackからチーム情報登録するコマンド　10分ごとのslackのuser情報取得　1か月ごとのslackのチーム情報取得",
+          "effortPoints": "Carbon型による日つけの処理が大変であった。決められた納期内に完成させるのが大変であった"
+        }
+      ]
+    }
+  ]
+}
+

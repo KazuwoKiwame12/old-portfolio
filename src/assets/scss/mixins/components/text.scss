@@ -1,0 +1,7 @@
+@mixin text($position){
+  font-family: "NotoSerifJP";
+  font-size: 13px;
+  line-height: 30px;
+  letter-spacing: 5px;
+  text-align: $position;
+}
